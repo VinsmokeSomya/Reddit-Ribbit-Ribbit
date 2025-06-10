@@ -1,4 +1,4 @@
-# 🐸 Reddit-Ribbit-Ribbit: Your Friendly AI Reddit Agent 🤖
+# 🐸 Reddit-Ribbit-Ribbit: Your Friendly Reddit Agent 🤖
 
 [![GitHub repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/VinsmokeSomya/Reddit-Ribbit-Ribbit.git)
 
