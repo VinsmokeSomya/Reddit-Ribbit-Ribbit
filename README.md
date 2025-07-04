@@ -1,4 +1,13 @@
-# 🐸 Reddit-Ribbit-Ribbit: Your Friendly Reddit Agent 🤖
+<div align="center">
+  🚩🧡🕉️ || जय श्री राम || 🕉️🧡🚩
+</div>
+
+---
+<div align="center">
+  <h1 style="border-bottom: none;">
+    🐸 Reddit-Ribbit-Ribbit 🤖
+  </h1>
+</div>
 
 [![GitHub repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/VinsmokeSomya/Reddit-Ribbit-Ribbit.git)
 
